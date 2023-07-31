@@ -1,0 +1,1 @@
+This project demonstrates CRUD operations using MONDODB (MONGOOSE) and NODE JS.
